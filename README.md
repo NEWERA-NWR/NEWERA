@@ -1,3 +1,3 @@
 # NEWERA
-NEWERA CONTRACT TOKEN 
-WEBSITE https://www.newera.icu/
+NEWERA CONTRACT SOLIDITY
+# WEBSITE https://www.newera.icu/
